@@ -1,66 +1,46 @@
-elmami bouhwar
-A new Flutter project.
+I’m a mamy a sonior developer mobile flutter apps web and laravel php im freelancer
+A hybrid mobile apps developer here who can build the iOS, Android apps with the single code and deployment in different platforms such as iOS, Android, Windows, Web Applications,
 
-## Getting Started
-Proficient in Flutter for cross-platform mobile app development.
-Strong expertise in PHP Laravel for backend development.
-Extensive experience in designing, developing, testing, and maintaining mobile applications.
-Proficient in RESTful API integration and web services.
-Excellent problem-solving and debugging skills.
-Strong understanding of software development best practices and version control.
-Proven ability to work collaboratively in a team or individually.
-Strong communication and project management skills.
-Professional Experience:
-Profile Summary
-work experience
-flutter and php
-mobile developper
-Developed and maintained mobile applications using Flutter for cross-platform compatibility. Integrated RESTful APIs and backend services built with PHP Laravel into mobile apps.Collaborated with the design and product teams to create user-friendly and visually appealing interfaces.Conducted code reviews, testing, and debugging to ensure app functionality and performance. Implemented new features, fixed bugs, and optimized mobile applications
-laravel and bootstrap
-web developper
-Designed and developed backend systems using PHP Laravel to support mobile app functionality.Created and maintained databases, managed data migrations, and ensured data integrity. implemented user authentication, authorization, and security measures to protect user data.
-Collaborated with front-end developers to integrate APIs and deliver seamless user experiences.Monitored application performance and conducted regular optimizations for scalability and speed. Assisted in project planning, including estimating development timelines and requirements.
-Contact
-Education
-Expertis
-abudhabi
-www.kmcampany.tech
-mamybhwr@gmail.com
-+971501005148
-Mobile App Development (Flutter)
-Backend Development (PHP Laravel)
-RESTful API Integration
-UI/UX Design
-Version Control (Git)
-Problem Solving
-Testing and Debugging
-Collaboration
-Project Management
-High school certificate
-economie  license
-Full courses
-2019 - 2020
-2020 - 2021
-elmami bouhwar
-Full Stack Developer
-Zemzem school - mauritanie
-University Nouakchott
-github:mamychiek
-linkend:mamychiek
-insta:mamychiek
-project
-rim Ai gemini Api  on playstore
-quizz game   on playstore
-xo game   on playstore
-nouakchott food market resto Api blogger  on playstore
-npdf apps book on gethub
-This project is a starting point for a Flutter application.
+with experience in building apps for small and medium sized businesses. php ,laravel,javascrips , Whether you’re trying to win work, list your services – I can help!
+4 years experiance
+With me, you get quality code and a reliable partner who can be available for an extended or short time frame. I'll be on your side, stopping at nothing to deliver technical excellence and excellent communication.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Supporting various device sizes,Security
+Performance Improvement
+Firebase Support
+Website to App Conversion
+Custom Application Development
+API Integration
+In-App Purchases app
+Fitness App
+E commerce app
+Calling Apps
+Firebase Integration
+Quiz App
+Barcode Scanner App
+Delivery app
+Travel Agency app
+Cylinder delivery app
+Food delivery app
+Expense tracker app
+Google Map integrations
+Payment gateway integration
+Food App
+Grocery, Mart and store app
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My skills go beyond only technical skills. I am business-oriented and passionate about leading my team and client to success.
+Experience in numerous industries producing solutions to problems using Web, Mobile, and Server Side Technologies. I have experience with small firms through large investor-backed projects where I have led the team and managed client communications.
+
+The main problem with developers from overseas is that they are pretty good at tech skills but they lack proactivity of US guys.
+I have helped my clients to launch and run their businesses successfully by providing them with web and mobile app solutions to streamline their work processes and boost their revenues.
+I always think of myself as a problem solver, not just a developer. Coding it's only a tool for rectifying issues.
+
+My areas of expertise include:
+✅ BLOG, PROVIDER
+✅ flutter dart
+✅ Backend: NodeJS, PHP, Laravel
+✅ Mobile App Development
+✅ RESTful APIs
+✅ Firebase ,
+https://www.upwork.com/freelancers/~010c192381f9324c26
